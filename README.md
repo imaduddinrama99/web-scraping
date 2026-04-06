@@ -95,7 +95,7 @@ Contoh data:
 
 ## Author
 
-Nama: Muchammad Imaduddin Ramadhani
-MataKuliah: PENGEMBANGAN APLIKASI BERBASIS WEB
-TUGAS: Tugas Scrapping data
+*Nama: Muchammad Imaduddin Ramadhani
+*MataKuliah: PENGEMBANGAN APLIKASI BERBASIS WEB
+*TUGAS: Tugas Scrapping data
 "# web-scraping" 
