@@ -20,20 +20,6 @@ Data diambil dari:
 
 ---
 
-## Struktur Folder
-
-```
-mlbb-scraper/
-│
-├── scraper.py     
-├── crud.py        
-├── data.json      
-├── data.csv       
-└── README.md     
-```
-
----
-
 ## Cara Menjalankan
 
 ### 1. Install dependency
